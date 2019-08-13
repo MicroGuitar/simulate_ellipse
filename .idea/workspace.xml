@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db15c4e5-d0dc-4ff9-a76c-c8c3178b8b6e" name="Default Changelist" comment="" />
+    <list default="true" id="db15c4e5-d0dc-4ff9-a76c-c8c3178b8b6e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merge.txt" beforeDir="false" afterPath="$PROJECT_DIR$/merge.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noise.py" beforeDir="false" afterPath="$PROJECT_DIR$/noise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/point1_xyz.txt" beforeDir="false" afterPath="$PROJECT_DIR$/point1_xyz.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/point2_xyz.txt" beforeDir="false" afterPath="$PROJECT_DIR$/point2_xyz.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/point3_xyz.txt" beforeDir="false" afterPath="$PROJECT_DIR$/point3_xyz.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/point4_xyz.txt" beforeDir="false" afterPath="$PROJECT_DIR$/point4_xyz.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,12 +33,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/noise.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="694">
-              <caret line="175" column="23" selection-start-line="175" selection-start-column="23" selection-end-line="175" selection-end-column="23" />
+            <state relative-caret-position="432">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
-                <marker date="1565329992229" expanded="false" signature="2681:3339" ph="..." />
-                <marker date="1565329992229" expanded="true" signature="3341:4018" ph="..." />
+                <marker date="1565592538486" expanded="true" signature="2777:3435" ph="..." />
+                <marker date="1565592538486" expanded="true" signature="3437:4078" ph="..." />
               </folding>
             </state>
           </provider>
@@ -39,8 +47,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/draw.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="45" column="40" lean-forward="true" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
+            <state relative-caret-position="1680">
+              <caret line="74" column="22" selection-start-line="74" selection-start-column="22" selection-end-line="74" selection-end-column="22" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -51,19 +59,40 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cut/cut2curve.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="79" column="12" lean-forward="true" selection-start-line="79" selection-start-column="12" selection-end-line="79" selection-end-column="12" />
+            <state relative-caret-position="2376">
+              <caret line="99" column="7" selection-start-line="99" selection-start-column="7" selection-end-line="102" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cut/cut_overlap.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3192">
+              <caret line="133" selection-start-line="133" selection-end-line="137" selection-end-column="25" />
+              <folding>
+                <marker date="1565593574042" expanded="true" signature="506:1780" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cut/interpolation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="16" column="27" lean-forward="true" selection-end-line="161" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cut/cut_overlap.py">
+        <entry file="file://$PROJECT_DIR$/cut/all_interpolation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="74" column="42" lean-forward="true" selection-start-line="74" selection-start-column="42" selection-end-line="74" selection-end-column="42" />
+            <state relative-caret-position="1895">
+              <caret line="200" column="18" selection-start-line="200" selection-start-column="18" selection-end-line="200" selection-end-column="18" />
               <folding>
-                <marker date="1565339883902" expanded="true" signature="506:1780" ph="..." />
+                <marker date="1565658265900" expanded="true" signature="1390:3835" ph="..." />
               </folding>
             </state>
           </provider>
@@ -72,17 +101,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cut/cal_overlap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="76" column="42" lean-forward="true" selection-start-line="76" selection-start-column="42" selection-end-line="76" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="21" column="41" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="41" />
+            <state relative-caret-position="1824">
+              <caret line="76" column="42" selection-start-line="76" selection-start-column="42" selection-end-line="76" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -99,15 +119,19 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>point_2_down</find>
+      <find>print</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/stereo.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/cut/cal_overlap.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/code1.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/cut/all_interpolation.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/noise.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/code.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/cut/cut_overlap.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/cut/interpolation.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/draw.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
@@ -118,19 +142,22 @@
         <option value="$PROJECT_DIR$/code1.py" />
         <option value="$PROJECT_DIR$/stereo.py" />
         <option value="$PROJECT_DIR$/draw.py" />
-        <option value="$PROJECT_DIR$/noise.py" />
         <option value="$PROJECT_DIR$/cut/cal_overlap.py" />
         <option value="$PROJECT_DIR$/cut/cut2curve.py" />
+        <option value="$PROJECT_DIR$/noise.py" />
         <option value="$PROJECT_DIR$/cut/cut_overlap.py" />
+        <option value="$PROJECT_DIR$/cut/interpolation.py" />
+        <option value="$PROJECT_DIR$/cut/all_interpolation.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="65" />
-    <option name="y" value="-4" />
-    <option name="width" value="1855" />
-    <option name="height" value="1084" />
+    <option name="x" value="64" />
+    <option name="y" value="-11" />
+    <option name="width" value="1857" />
+    <option name="height" value="1092" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -176,7 +203,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.cut2curve">
+  <component name="RunManager" selected="Python.all_interpolation">
+    <configuration name="all_interpolation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cut" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cut/all_interpolation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="cut2curve" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LM" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -219,7 +267,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="draw" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="interpolation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,11 +275,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cut" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draw.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cut/interpolation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,34 +309,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="stereo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LM" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stereo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.all_interpolation" />
+        <item itemvalue="Python.interpolation" />
+        <item itemvalue="Python.noise" />
         <item itemvalue="Python.cut2curve" />
         <item itemvalue="Python.cut_overlap" />
-        <item itemvalue="Python.noise" />
-        <item itemvalue="Python.draw" />
-        <item itemvalue="Python.stereo" />
       </list>
     </recent_temporary>
   </component>
@@ -306,16 +333,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <frame x="64" y="-11" width="1857" height="1092" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13045852" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13045852" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3472367" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2633229" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39916405" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -329,13 +356,7 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/code1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/code1.py" />
     <entry file="file://$USER_HOME$/.virtualenvs/calibration_toolbox/local/lib/python2.7/site-packages/toolbox/vgl/stereo_vision.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="334">
@@ -365,23 +386,7 @@
     <entry file="file://$PROJECT_DIR$/point4_xyz.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/stereo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="21" selection-start-line="21" selection-end-line="24" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="21" column="41" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/code.py" />
     <entry file="file://$PROJECT_DIR$/cut/curve1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3024">
@@ -392,48 +397,75 @@
     <entry file="file://$PROJECT_DIR$/cut/curve3.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/draw.py">
+    <entry file="file://$PROJECT_DIR$/stereo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="45" column="40" lean-forward="true" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
+        <state relative-caret-position="480">
+          <caret line="21" selection-start-line="21" selection-end-line="24" selection-end-column="24" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/noise.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="694">
-          <caret line="175" column="23" selection-start-line="175" selection-start-column="23" selection-end-line="175" selection-end-column="23" />
+        <state relative-caret-position="432">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
-            <marker date="1565329992229" expanded="false" signature="2681:3339" ph="..." />
-            <marker date="1565329992229" expanded="true" signature="3341:4018" ph="..." />
+            <marker date="1565592538486" expanded="true" signature="2777:3435" ph="..." />
+            <marker date="1565592538486" expanded="true" signature="3437:4078" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/draw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="74" column="22" selection-start-line="74" selection-start-column="22" selection-end-line="74" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cut/cut2curve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2376">
+          <caret line="99" column="7" selection-start-line="99" selection-start-column="7" selection-end-line="102" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cut/cut_overlap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3192">
+          <caret line="133" selection-start-line="133" selection-end-line="137" selection-end-column="25" />
+          <folding>
+            <marker date="1565593574042" expanded="true" signature="506:1780" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cut/cal_overlap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="76" column="42" lean-forward="true" selection-start-line="76" selection-start-column="42" selection-end-line="76" selection-end-column="42" />
+        <state relative-caret-position="1824">
+          <caret line="76" column="42" selection-start-line="76" selection-start-column="42" selection-end-line="76" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cut/cut2curve.py">
+    <entry file="file://$PROJECT_DIR$/cut/interpolation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="79" column="12" lean-forward="true" selection-start-line="79" selection-start-column="12" selection-end-line="79" selection-end-column="12" />
+        <state relative-caret-position="384">
+          <caret line="16" column="27" lean-forward="true" selection-end-line="161" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cut/cut_overlap.py">
+    <entry file="file://$PROJECT_DIR$/cut/all_interpolation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="74" column="42" lean-forward="true" selection-start-line="74" selection-start-column="42" selection-end-line="74" selection-end-column="42" />
+        <state relative-caret-position="1895">
+          <caret line="200" column="18" selection-start-line="200" selection-start-column="18" selection-end-line="200" selection-end-column="18" />
           <folding>
-            <marker date="1565339883902" expanded="true" signature="506:1780" ph="..." />
+            <marker date="1565658265900" expanded="true" signature="1390:3835" ph="..." />
           </folding>
         </state>
       </provider>
