@@ -107,6 +107,8 @@ NN_index = np.argwhere(sort_x4_axis == pt1_down_NN[0])[0][0]
 # b = np.argwhere()
 print NN_index
 # j = np.array([0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1], dtype=np.float)
+
+# *************interpolation****************
 flag = 0.0
 new_1_4 = []
 for i in range(0, NN_index, 4):
@@ -126,6 +128,8 @@ for i in range(0, NN_index, 4):
     else:
         break
 print len(new_1_4)
+# ******************************************
+
 with open('new_interpolation.txt', 'w') as f:
     for pt in curve1:
         # if pt[0] < pt4_left_NN[0] or pt[0] < pt3_left_NN[0]:
